@@ -28,14 +28,14 @@
 ### 方法一：自动安装（推荐）
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/opencode-skill-localizer/main/scripts/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/coder-wangbin/opencode-skill-localizer/main/scripts/install.sh | bash
 ```
 
 ### 方法二：手动安装
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/YOUR_USERNAME/opencode-skill-localizer.git
+git clone https://github.com/coder-wangbin/opencode-skill-localizer.git
 cd opencode-skill-localizer
 
 # 2. 将技能文件复制到你的 OpenCode 配置目录

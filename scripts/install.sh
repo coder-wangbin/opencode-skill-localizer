@@ -1,6 +1,6 @@
 #!/bin/bash
 # OpenCode Skill Localizer - 自动安装脚本
-# 用法：curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/opencode-skill-localizer/main/scripts/install.sh | bash
+# 用法：curl -fsSL https://raw.githubusercontent.com/coder-wangbin/opencode-skill-localizer/main/scripts/install.sh | bash
 
 set -e
 
